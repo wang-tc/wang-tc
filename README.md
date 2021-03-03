@@ -1,5 +1,4 @@
-### Hi there 👋
-
+🌱 [blog](https://wang-tc.github.io/blog/)
 <!--
 **wang-tc/wang-tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
